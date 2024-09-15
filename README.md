@@ -1,5 +1,7 @@
 # Messenger App
 
+[Live Site](https://ui-messenger.netlify.app/)
+
 Frontend for a messenger app built using react.js, vite, tailwind, headless-ui and heroicons. 
 
 Functionality covered:
